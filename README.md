@@ -23,8 +23,9 @@ https://github.com/Thayuana/natty-or-fake-IA-generativa/assets/170134813/74118d4
 Criei um vídeo curto onde o avatar está atuando como jornalista e fazendo uma matéria rápida sobre art e cultura.
 
 ## 🤖 Tecnologias Utilizadas
-Chat GPT  
-Vidnoz AI
+[Chat GPT](https://chatgpt.com/)  
+
+[Vidnoz AI](https://aiapp-pt.vidnoz.com/)
 
 ## 🧐 Processo de Criação
 prompt utilizado no ChatGPT :  
