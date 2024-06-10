@@ -13,7 +13,7 @@ Olá pessoal,  Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da
 **Explorar IAs Generativas**: Utilizar essas tecnologias para criar conteúdos que sejam o mais realista possível. 
    
 ### Titulo  
-## Art e Cultura     
+## Art e Cultura(matéria noticiário)     
 
 https://github.com/Thayuana/natty-or-fake-IA-generativa/assets/170134813/74118d43-0509-4d09-af6d-7165628ed046
 
