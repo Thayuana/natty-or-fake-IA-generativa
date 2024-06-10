@@ -12,20 +12,45 @@ Olá pessoal,  Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da
 
 **Explorar IAs Generativas**: Utilizar essas tecnologias para criar conteúdos que sejam o mais realista possível. 
    
-### Titulo
+### Titulo  
+## Art e Cultura     
+
+https://github.com/Thayuana/natty-or-fake-IA-generativa/assets/170134813/74118d43-0509-4d09-af6d-7165628ed046
+
+        
+
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criei um vídeo curto onde o avatar está atuando como jornalista e fazendo uma matéria rápida sobre art e cultura.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT  
+Vidnoz AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+prompt utilizado no ChatGPT :  
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+                            criei um roteiro para uma matéria rápida apresentada no telejornal sobre art citando Leonardo da Vinci.  
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+                             usei modelo de noticiário como cenário,alterei voz,idioma,texto e avatar.  
+                             
+                             usei banco de dados de imagem do site Vidnoz AI para criar matéria da exposição.  
+                             
+                             refiz o tempo de fala e tempo de pausa.  
+                             
+
+## 🚀 Resultados  
+[vídeo completo](https://youtu.be/g3ZEsClzGL4)
+
+## 💭 Reflexão (Opcional)  
+foi divertido.
+as Ias em geral independente ser pró na maioria dos sites possuem limitações que demonstram ser um avatar.  
+Movimentos repetitivos e corpo enrijecido demais.Ohos saltando para fora.
+Dependendo do modelo que for fazer seu projeto, cada site possui ferramentas com falha sendo necessária o uso de mais de uma IA.  
+O modelo free dificulta um pouco na criação.  
+
+
+[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical][![lista de IA](https://github.com/Thayuana/natty-or-fake-IA-generativa/assets/170134813/c9ecf0aa-9c3f-492e-9102-0ab330fa76fb)
+]( https://base10.vc/post/generative-ai-mission-critical/)
+
 
 ⌨️ com 💜 por [Thayuana](www.linkedin.com/in/thayuanatrindade)
