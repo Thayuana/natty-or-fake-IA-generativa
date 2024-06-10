@@ -13,7 +13,7 @@ Olá pessoal,  Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da
 **Explorar IAs Generativas**: Utilizar essas tecnologias para criar conteúdos que sejam o mais realista possível. 
    
 ### Titulo  
-## Art e Cultura(matéria noticiário)     
+## Art e Cultura    
 
 https://github.com/Thayuana/natty-or-fake-IA-generativa/assets/170134813/74118d43-0509-4d09-af6d-7165628ed046
 
@@ -30,12 +30,11 @@ Vidnoz AI
 prompt utilizado no ChatGPT :  
 
                             criei um roteiro para uma matéria rápida apresentada no telejornal sobre art citando Leonardo da Vinci.  
-
-                             usei modelo de noticiário como cenário,alterei voz,idioma,texto e avatar.  
-                             
-                             usei banco de dados de imagem do site Vidnoz AI para criar matéria da exposição.  
-                             
-                             refiz o tempo de fala e tempo de pausa.  
+                            
+* usei modelo de noticiário como cenário,alterei voz,idioma,texto e avatar.             
+* usei banco de dados de imagem do site Vidnoz AI para criar matéria da exposição.  
+* refiz o tempo de fala e tempo de pausa.                              
+                            
                              
 
 ## 🚀 Resultados  
